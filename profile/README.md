@@ -43,7 +43,7 @@ AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리�
 **Kakao Talk sharing**
 자랑하기(PC), 공유 아이콘(모바일)을 누르면 이렇게 AI가 분석한 결과와 함께, 그렸던 그림을 공유할 수 있습니다!
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/87285536/183130904-766c32d3-ea93-43bb-b379-909c9f90a320.png" width="40%">
+<img src = "https://user-images.githubusercontent.com/87285536/183130904-766c32d3-ea93-43bb-b379-909c9f90a320.png" width="300">
 </p>
 
 <img src = "https://user-images.githubusercontent.com/87285536/183131511-08ccb2c4-c37c-4096-a6fe-f2af08271e00.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131545-e2eb7f06-54ae-42d5-8b59-dcf14e514687.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131582-3d3c8381-1446-461d-9aef-94f8562299cf.png" width="33%">
