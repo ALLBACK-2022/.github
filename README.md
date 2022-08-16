@@ -9,7 +9,7 @@
 본 서비스는 사용자가 그린 그림을 AI 모델을 통해 무엇을 그렸는지 유추하고, 그 결과를 퍼센트로 변환하여 사용자가 그린 그림이 제시어와 얼마나 유사한지 알려주는 서비스 입니다. 
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/87285536/183125415-647b8d22-6b75-4451-83a4-c56824ae49a6.gif">
+<img src = "https://user-images.githubusercontent.com/95288297/184758430-3cd1e7d1-69b1-483a-9952-cec90db1fa33.gif">
 </p>
 
 ## System Architecture
@@ -68,7 +68,7 @@ AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리�
 
 [Google Colaboratory](https://colab.research.google.com/drive/1sSnOBSFTOP6fxMCGxgl1RJNopvbY8xOJ?usp=sharing)
 
-<img src ="https://user-images.githubusercontent.com/87285536/183132209-ccbc1f56-cd43-4d44-abcf-9aa5f6730491.gif" width="100%">
+<img width="80%" src ="https://user-images.githubusercontent.com/87285536/183132209-ccbc1f56-cd43-4d44-abcf-9aa5f6730491.gif" width="100%">
 
 ## Tech Stack
 
