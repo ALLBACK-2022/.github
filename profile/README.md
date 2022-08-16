@@ -6,10 +6,11 @@
 [Go to medium.com article!](https://medium.com/@dayon0325/doodle-doodle-drawing-that-ai-guesses-d1f2e7c50c4b)
 
 
-본 서비스는 사용자가 그린 그림을 AI 모델을 통해 무엇을 그렸는지 유추하고, 그 결과를 퍼센트로 변환하여 사용자가 그린 그림이 제시어와 얼마나 유사한지 알려주는 서비스 입니다. 
+본 서비스는 사용자가 단어를 보고 그림을 그리면 사용자가 그린 그림을 AI 모델을 통해 무엇을 그렸는지 유추하고, 그 결과를 퍼센트로 변환하여 사용자가 그린 그림이 제시어와 얼마나 유사한지 알려주는 서비스 입니다. 
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/95288297/184758633-21789c94-b510-402e-bf72-3825322e1461.gif">
+<img src = "https://user-images.githubusercontent.com/95288297/184758633-21789c94-b510-402e-bf72-3825322e1461.gif">  
+     
     
 </p>
 
@@ -19,6 +20,7 @@
 <p align="center">
 <img width="70%" src = "https://user-images.githubusercontent.com/87285536/183125649-dcbed255-9829-40df-b762-21c66dcd8683.png">
 </p>
+
 ## Features
 
 - Main Feature: 사용자가 그린 그림이 서비스에서 제시한 단어와 얼마나 유사한지 AI가 분석한 결과를 제공
@@ -71,7 +73,9 @@ AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리�
 
 [Google Colaboratory](https://colab.research.google.com/drive/1sSnOBSFTOP6fxMCGxgl1RJNopvbY8xOJ?usp=sharing)
 
-<img src ="https://user-images.githubusercontent.com/87285536/183132209-ccbc1f56-cd43-4d44-abcf-9aa5f6730491.gif" width="100%">
+<p align="center">
+<img width="70%" src ="https://user-images.githubusercontent.com/87285536/183132209-ccbc1f56-cd43-4d44-abcf-9aa5f6730491.gif" width="100%">
+</p>
 
 ## Tech Stack
 
