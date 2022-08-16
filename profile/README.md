@@ -10,47 +10,45 @@
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/95288297/184758633-21789c94-b510-402e-bf72-3825322e1461.gif">  
-     
-    
 </p>
-
+<p />
 
 ## System Architecture
 
 <p align="center">
 <img width="70%" src = "https://user-images.githubusercontent.com/87285536/183125649-dcbed255-9829-40df-b762-21c66dcd8683.png">
 </p>
+<p />
 
 ## Features
 
 - Main Feature: 사용자가 그린 그림이 서비스에서 제시한 단어와 얼마나 유사한지 AI가 분석한 결과를 제공
 - Additional Feature: 사용자가 그린 그림을 보고 AI가 추측한 결과 + 카카오톡을 통해 결과 및 사진 공유
 
-<p align="center">
-<img src = "https://user-images.githubusercontent.com/87285536/183126857-1a6d4f4d-5eca-4642-8905-de17b916f11b.png" width="49%"> <img src = "https://user-images.githubusercontent.com/87285536/183130538-60360d0f-7a5a-4ba3-bfcb-f55a0329f393.png" width="49%">
-</p>
-
+<p />
+**PC Page**
 **Main**|**Information**
 -----|-----
 <img src = "https://user-images.githubusercontent.com/87285536/183126857-1a6d4f4d-5eca-4642-8905-de17b916f11b.png" width="100%">|<img src = "https://user-images.githubusercontent.com/87285536/183129494-d02d6fb0-0ea1-42a6-a4ad-cea33bcd4f66.png" width="100%">
-서비스에 참여하는 인원수를 설정한 후, start 버튼을 눌러 시작합니다.|이 프로젝트와 팀원 깃허브링크, 참고한 웹사이트 링크,  서비스 참여 방법을 제공합니다.
+서비스에 참여하는 인원수를 설정한 후, start 버튼을 눌러 시작합니다.| 이 프로젝트와 팀원 깃허브링크, 참고한 웹사이트 링크,  서비스 참여 방법을 제공합니다.
 
 **Choose a word to draw**|**Draw the word on canvas**
 -----|-----
 <img src = "https://user-images.githubusercontent.com/87285536/183129750-2f08b0d8-fb9a-4bc9-a902-ab1efae2b9ae.png" width="100%">|<img src = "https://user-images.githubusercontent.com/87285536/183129775-743a7551-e917-4f3e-a510-a666c10c7804.png" width="100%">
-랜덤으로 생성되는 단어 중에 그리고 싶은 단어를 고릅니다.|앞서 선택했던 단어에 맞게 그림을 그립니다
+랜덤으로 생성되는 단어 중에 그리고 싶은 단어를 고릅니다.| 앞서 선택했던 단어에 맞게 그림을 그립니다
 
 **The results of one doodle**|**The results of several doodles**
 -----|-----
 <img src = "https://user-images.githubusercontent.com/87285536/183130430-df1ab55d-d9e3-4ed8-a139-e3109106546c.png" width="100%">|<img src = "https://user-images.githubusercontent.com/87285536/183130463-c879b3d7-e7f4-475a-89f5-45ecdc3bdbc0.png" width="100%">
-AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리고 이 그림을 보고 유사하다고 생각한 상위5개 결과를 유저의 그림과 함께 보여줍니다.|참여한 유저들의 그림과 함께 선택했던 단어의 유사도를 기준으로 순위를 매겨 보여줍니다.
+AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리고 이 그림을 보고 유사하다고 생각한 상위5개 결과를 유저의 그림과 함께 보여줍니다.| 참여한 유저들의 그림과 함께 선택했던 단어의 유사도를 기준으로 순위를 매겨 보여줍니다.
 
 **Kakao Talk sharing**
 자랑하기(PC), 공유 아이콘(모바일)을 누르면 이렇게 AI가 분석한 결과와 함께, 그렸던 그림을 공유할 수 있습니다!
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/87285536/183130904-766c32d3-ea93-43bb-b379-909c9f90a320.png" width="300">
+<img width="70%" src = "https://user-images.githubusercontent.com/87285536/183130904-766c32d3-ea93-43bb-b379-909c9f90a320.png" width="300">
 </p>
 
+**Mobile Page**
 <img src = "https://user-images.githubusercontent.com/87285536/183131511-08ccb2c4-c37c-4096-a6fe-f2af08271e00.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131545-e2eb7f06-54ae-42d5-8b59-dcf14e514687.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131582-3d3c8381-1446-461d-9aef-94f8562299cf.png" width="33%">
 <img src = "https://user-images.githubusercontent.com/87285536/183131685-79b8cf05-bd44-44d9-b5ae-7273dc3a718c.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131838-a5a7d534-486c-4e84-87c4-4d922587e997.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131866-839a8c25-5c4b-47eb-a022-c709c66f7181.png" width="33%">
 
@@ -64,7 +62,7 @@ AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리�
 - /resultmany     → result page for multi users
 
 ## Backend API
-<img src = "https://user-images.githubusercontent.com/87285536/183132037-e67ed6e8-853f-411f-a331-36492b8a7f00.png" width="100%">
+<img width="60%" src = "https://user-images.githubusercontent.com/87285536/183132037-e67ed6e8-853f-411f-a331-36492b8a7f00.png" width="100%">
 
 ## AI Dataset
 
