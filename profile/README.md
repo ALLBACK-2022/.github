@@ -10,13 +10,15 @@
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/95288297/184758633-21789c94-b510-402e-bf72-3825322e1461.gif">
+    
 </p>
 
 
 ## System Architecture
 
+<p align="center">
 <img width="70%" src = "https://user-images.githubusercontent.com/87285536/183125649-dcbed255-9829-40df-b762-21c66dcd8683.png">
-
+</p>
 ## Features
 
 - Main Feature: 사용자가 그린 그림이 서비스에서 제시한 단어와 얼마나 유사한지 AI가 분석한 결과를 제공
