@@ -28,7 +28,7 @@
 
 <p />
 
-## PC Page
+### PC Page
 
 **Main**|**Information**
 -----|-----
@@ -51,8 +51,9 @@ AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리�
 <img width="25%" src = "https://user-images.githubusercontent.com/87285536/183130904-766c32d3-ea93-43bb-b379-909c9f90a320.png" width="300">
 </p>
 
-## Mobile Page
-<img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131511-08ccb2c4-c37c-4096-a6fe-f2af08271e00.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131545-e2eb7f06-54ae-42d5-8b59-dcf14e514687.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131582-3d3c8381-1446-461d-9aef-94f8562299cf.png" width="33%">
+### Mobile Page
+<img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131511-08ccb2c4-c37c-4096-a6fe-f2af08271e00.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131545-e2eb7f06-54ae-42d5-8b59-dcf14e514687.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131582-3d3c8381-1446-461d-9aef-94f8562299cf.png" width="33%">  
+
 <img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131685-79b8cf05-bd44-44d9-b5ae-7273dc3a718c.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131838-a5a7d534-486c-4e84-87c4-4d922587e997.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131866-839a8c25-5c4b-47eb-a022-c709c66f7181.png" width="33%">
 
 ## URL
