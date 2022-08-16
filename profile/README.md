@@ -9,8 +9,9 @@
 본 서비스는 사용자가 그린 그림을 AI 모델을 통해 무엇을 그렸는지 유추하고, 그 결과를 퍼센트로 변환하여 사용자가 그린 그림이 제시어와 얼마나 유사한지 알려주는 서비스 입니다. 
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/87285536/183125415-647b8d22-6b75-4451-83a4-c56824ae49a6.gif">
+<img src = "https://user-images.githubusercontent.com/95288297/184758633-21789c94-b510-402e-bf72-3825322e1461.gif">
 </p>
+
 
 ## System Architecture
 
