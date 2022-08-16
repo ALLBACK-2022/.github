@@ -15,7 +15,7 @@
 
 ## System Architecture
 
-<img src = "https://user-images.githubusercontent.com/87285536/183125649-dcbed255-9829-40df-b762-21c66dcd8683.png">
+<img width="70%" src = "https://user-images.githubusercontent.com/87285536/183125649-dcbed255-9829-40df-b762-21c66dcd8683.png">
 
 ## Features
 
