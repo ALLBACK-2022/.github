@@ -6,7 +6,8 @@
 [Go to medium.com article!](https://medium.com/@dayon0325/doodle-doodle-drawing-that-ai-guesses-d1f2e7c50c4b)
 
 
-본 서비스는 사용자가 단어를 보고 그림을 그리면 사용자가 그린 그림을 AI 모델을 통해 무엇을 그렸는지 유추하고, 그 결과를 퍼센트로 변환하여 사용자가 그린 그림이 제시어와 얼마나 유사한지 알려주는 서비스 입니다. 
+본 서비스는 사용자가 단어를 보고 그림을 그리면 사용자가 그린 그림을 AI 모델을 통해 무엇을 그렸는지 유추하고,   
+그 결과를 퍼센트로 변환하여 사용자가 그린 그림이 제시어와 얼마나 유사한지 알려주는 서비스 입니다. 
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/95288297/184758633-21789c94-b510-402e-bf72-3825322e1461.gif">  
@@ -26,6 +27,7 @@
 - Additional Feature: 사용자가 그린 그림을 보고 AI가 추측한 결과 + 카카오톡을 통해 결과 및 사진 공유
 
 <p />
+
 ## PC Page
 
 **Main**|**Information**
@@ -46,12 +48,12 @@ AI가 선택했던 단어와 얼마나 유사하다고 예측했는지, 그리�
 **Kakao Talk sharing**
 자랑하기(PC), 공유 아이콘(모바일)을 누르면 이렇게 AI가 분석한 결과와 함께, 그렸던 그림을 공유할 수 있습니다!
 <p align="center">
-<img width="70%" src = "https://user-images.githubusercontent.com/87285536/183130904-766c32d3-ea93-43bb-b379-909c9f90a320.png" width="300">
+<img width="25%" src = "https://user-images.githubusercontent.com/87285536/183130904-766c32d3-ea93-43bb-b379-909c9f90a320.png" width="300">
 </p>
 
 ## Mobile Page
-<img src = "https://user-images.githubusercontent.com/87285536/183131511-08ccb2c4-c37c-4096-a6fe-f2af08271e00.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131545-e2eb7f06-54ae-42d5-8b59-dcf14e514687.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131582-3d3c8381-1446-461d-9aef-94f8562299cf.png" width="33%">
-<img src = "https://user-images.githubusercontent.com/87285536/183131685-79b8cf05-bd44-44d9-b5ae-7273dc3a718c.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131838-a5a7d534-486c-4e84-87c4-4d922587e997.png" width="33%"><img src = "https://user-images.githubusercontent.com/87285536/183131866-839a8c25-5c4b-47eb-a022-c709c66f7181.png" width="33%">
+<img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131511-08ccb2c4-c37c-4096-a6fe-f2af08271e00.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131545-e2eb7f06-54ae-42d5-8b59-dcf14e514687.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131582-3d3c8381-1446-461d-9aef-94f8562299cf.png" width="33%">
+<img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131685-79b8cf05-bd44-44d9-b5ae-7273dc3a718c.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131838-a5a7d534-486c-4e84-87c4-4d922587e997.png" width="33%"><img width="20%" src = "https://user-images.githubusercontent.com/87285536/183131866-839a8c25-5c4b-47eb-a022-c709c66f7181.png" width="33%">
 
 ## URL
 
